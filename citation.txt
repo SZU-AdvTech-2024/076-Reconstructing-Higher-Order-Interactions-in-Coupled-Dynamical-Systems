@@ -1,0 +1,10 @@
+@article{REPO076,
+    author = "Malizia, Federico and Corso, Alessandra and Gambuzza, Lucia Valentina and Russo, Giovanni and Latora, Vito and Frasca, Mattia",
+    journal = "Nature Communications",
+    number = "1",
+    pages = "5184",
+    publisher = "Nature Publishing Group UK London",
+    title = "{Reconstructing higher-order interactions in coupled dynamical systems}",
+    volume = "15",
+    year = "2024"
+}
